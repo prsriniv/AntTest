@@ -1,0 +1,5 @@
+<project name="wait" default="wait.wait.wait">
+<target name="wait.wait.wait">
+<sleep seconds="120" />
+</target>
+</project>
